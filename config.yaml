@@ -1,0 +1,4 @@
+model: "gpt-4"
+api_base: "https://api.openai.com/v1/chat/completions"
+api_key: "sk-你的密钥"
+temperature: 0.8
